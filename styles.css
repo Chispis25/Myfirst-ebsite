@@ -1,0 +1,44 @@
+body {
+   background-color: rgb(20, 219, 219);
+}
+
+p {
+  font-size: 25px;
+  color:rgb(0, 0, 0);
+}
+
+img {
+  border-radius:50%;
+  width: 50%;
+  height: 25%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  display: block;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+#header {
+  border-radius: 30%;
+  border-width: 15%;
+  border-style: dashed;
+  background-color: indianred;
+  text-align: center;
+}
+#list {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 15px;
+  margin-left: 35%;
+}
+#navlinks {
+  position: fixed;
+}
+#footer{
+  border-radius: 35%;
+  border-width: 30%;
+  border-style: groove;
+  background-color: teal;
+  text-align: center;
+}
